@@ -1,0 +1,2 @@
+class UnggahanController < ApplicationController
+end
